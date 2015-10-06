@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Evaluation">
+    <file>btn_exit.png</file>
+    <file>btn_test.png</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
